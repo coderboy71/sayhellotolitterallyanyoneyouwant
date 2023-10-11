@@ -1,0 +1,61 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="}AD/St~fqX,`|Gpv3?xV" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="Q_EM9z;p.MI?2i~vcTyX"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # . . . # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="}$K;Ic^HxTZ:0c?.o;--"><field name="LEDS">`
+        # # # # # 
+        # . . . . 
+        # # # # . 
+        # . . . . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="vxWEQB{MY-=Z^O]wE:2-"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="jO*RN!VwleXQzzblI]Ko"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="d_V2#DylP87JDz+6[1U$"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="*S.WI;SyCPW;f]T8W=iJ"><field name="LEDS">`
+        # # # # . 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # .
+        `</field><next><block type="device_show_leds" id="J~O?j$Rf{$)TI9^~0.M3"><field name="LEDS">`
+        . # # # . 
+        # . . . # 
+        # # # # # 
+        # . . . # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="8H?Bjbj,y/alhn?Lmj5h"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="/,LHVGfQ2IC=rV#LXq!Y"><field name="LEDS">`
+        # # # # # 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="LEr}JUu_U8s_,iJNdmjZ"><field name="LEDS">`
+        # # # # . 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
